@@ -9,7 +9,7 @@
  - PR 60/2020 Luka Đelić
  - PR 68/2020 Stefan Milovanović
  - PR 69/2020 Momčilo Micić
- - PR 78/2020 Dušan Paripović
+ - PR 76/2020 Dušan Paripović
 
 ## Opšte informacije
 
