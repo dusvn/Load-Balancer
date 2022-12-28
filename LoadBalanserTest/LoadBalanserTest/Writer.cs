@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LoadBalanserTest
 {
-    class Writer
+    public class Writer
     {
         Random r;
         public void generisiIteme()
