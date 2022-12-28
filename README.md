@@ -1,4 +1,3 @@
-# Load-Balancer
 # **Load-Balancer**
 ###### Projekat rađen za predmet Elementi Razvoja Softvera na Fakultetu Tehničkih Nauka u Novom Sadu
 
