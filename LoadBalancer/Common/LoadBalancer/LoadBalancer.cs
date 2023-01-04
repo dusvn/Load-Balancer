@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace LoadBalancer
@@ -10,6 +11,7 @@ namespace LoadBalancer
     class LoadBalancer : IBalancerService
     {
         private List<Description> DescriptionList;
+        private static List<Worker> workers;
         public LoadBalancer()
         {
             DescriptionList = new List<Description>();
@@ -41,6 +43,19 @@ namespace LoadBalancer
             foreach (Description d in DescriptionList)
             {
                 if (ds == d.dataSet) d.ItemList.Add(item);
+            }
+        }
+        void saljiDescriptione()
+        {
+            while (true)
+            {
+                for(int i = 0; i < brWorkera; i++)
+                {
+                    workers[i].primiDescription(DescriptionList[0]);
+                    DescriptionList[0].ItemList.Clear();
+
+                    Thread.Sleep(5000);
+                }
             }
         }
     }

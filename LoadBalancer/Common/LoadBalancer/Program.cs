@@ -17,7 +17,7 @@ namespace LoadBalancer
             sh.Open();
             Console.WriteLine("Servis otvoren.");
 
-            Console.Read();
+            //Console.Read();
             //sh.Close();
         }
         static void Main(string[] args)
