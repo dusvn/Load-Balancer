@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="CollectionDescription.cs" />
     <Compile Include="Description.cs" />
+    <Compile Include="ListDescription.cs" />
     <Compile Include="LoadBalancer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

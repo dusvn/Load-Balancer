@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Client
 {
-    class Writer
+    public class Writer
     {
         Random r;
         public void generisiIteme(IBalancerService kanal)
@@ -21,7 +21,9 @@ namespace Client
                 Item item = new Item((Code)c, v);
                 Console.WriteLine("Poslacemo Item Code: " + item.code + " Value: " + item.value);
                 kanal.zapisiIteme(item);
+                kanal.save_local(item);
                 Thread.Sleep(2000);
+
             }
         }
     }

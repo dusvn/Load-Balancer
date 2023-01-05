@@ -8,3 +8,14 @@ D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\ConsoleApp1\obj\Deb
 D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\ConsoleApp1\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\bin\Debug\Common.dll
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\bin\Debug\Common.pdb
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

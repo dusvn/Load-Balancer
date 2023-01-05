@@ -12,5 +12,10 @@ namespace Common
     {
         [OperationContract]
         void zapisiIteme(Item item);
+
+        [OperationContract]
+        void save_local(Item item);
+
+
     }
 }
