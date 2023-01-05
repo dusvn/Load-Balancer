@@ -16,15 +16,16 @@ namespace LoadBalancer
             sh.AddServiceEndpoint(typeof(IBalancerService), new NetTcpBinding(), new Uri("net.tcp://localhost:4002/IBalancerService"));
             sh.Open();
             Console.WriteLine("Servis otvoren.");
-
+            
             //Console.Read();
             //sh.Close();
         }
         static void Main(string[] args)
         {
-            Task task = Task.Factory.StartNew(() => Conn());
+            Task task = Task.Factory.StartNew( () => Conn() );
             Console.Read();
             LoadBalancer lb = new LoadBalancer();
+           // Task task_2 = Task.Factory.StartNew( () => lb.
         }
     }
 }

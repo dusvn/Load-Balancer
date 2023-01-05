@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LoadBalancer
 {
-    class Worker
+    public class Worker
     {
         CollectionDescription cd;
         public Worker()

@@ -4,3 +4,9 @@ D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\Common\obj\Debug\Co
 D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\Common\obj\Debug\Common.dll
 D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\Common\obj\Debug\Common.pdb
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\Common\bin\Debug\Common.dll
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\Common\bin\Debug\Common.pdb
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\Common\obj\Debug\Common.dll
+C:\Users\Dusan.rs\Desktop\ers\Load-Balancer\LoadBalancer\Common\Common\obj\Debug\Common.pdb
