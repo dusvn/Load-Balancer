@@ -1,0 +1,10 @@
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\bin\Release\Workers.exe.config
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\bin\Release\Workers.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\bin\Release\Workers.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\bin\Release\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\bin\Release\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\obj\Release\Workers.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\obj\Release\Workers.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\obj\Release\Workers.csproj.CopyComplete
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\obj\Release\Workers.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\Workers\obj\Release\Workers.pdb

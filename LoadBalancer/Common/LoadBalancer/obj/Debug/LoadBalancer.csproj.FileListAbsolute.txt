@@ -1,0 +1,191 @@
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe.config
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CopyComplete
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.pdb
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.exe
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.pdb
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe.config
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.pdb
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.pdb
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe.config
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CopyComplete
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.pdb
+C:\Users\Korisnik\Desktop\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll.config
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe.config
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.pdb
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.pdb
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll.config
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.AssemblyReference.cache
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CopyComplete
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.exe
+C:\Users\Ludjo\Downloads\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe.config
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll.config
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.xml
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CopyComplete
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS PROJEKAT\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.pdb
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe.config
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.pdb
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.dll
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.pdb
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll.config
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.xml
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.exe
+C:\Users\Korisnik\Desktop\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.pdb
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe.config
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.exe
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\LoadBalancer.pdb
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.dll
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.pdb
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Common.dll.config
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Buffers.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Memory.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Text.Json.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\bin\Debug\System.ValueTuple.xml
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.AssemblyReference.cache
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CoreCompileInputs.cache
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.csproj.CopyComplete
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.exe
+C:\Users\Ludjo\Downloads\Load-Balancer-Ludjo\Load-Balancer-main\LoadBalancer\Common\LoadBalancer\obj\Debug\LoadBalancer.pdb

@@ -1,0 +1,11 @@
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\bin\Release\Common.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\bin\Release\Oracle.ManagedDataAccess.dll
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\bin\Release\Common.pdb
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\obj\Release\Client.csprojAssemblyReference.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\obj\Release\Client.csproj.CoreCompileInputs.cache
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\obj\Release\Client.csproj.CopyComplete
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\SNIMANJA\FAKS JU\3GODINA\ERS POMOC\Load-Balancer-PinkiBranch(1)\Load-Balancer-PinkiBranch\Load-Balancer-main\Load-Balancer-main\LoadBalancer\Common\ConsoleApp1\obj\Release\ConsoleApp1.pdb
