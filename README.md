@@ -87,6 +87,10 @@ Reader je komponenta koja služi za čitanje i ispisivanje podataka iz baze. Pom
 
 </details>
 
+### Activity dijagram
+
+![](https://cdn.discordapp.com/attachments/1051409709044871228/1069272738126119002/Activity_Diagram.png)
+
 ## Način instaliranja / korišćenja
 
 U glavonm folderu se nalazi fajl *Common.sln* koji treba otvoriti u Visual Studiu. Konzolne aplikacije Za Client, Worker, Load Balancer mogu da se pokrenu u bilo kom redosledu jer je naša implementacija omogućila bezbedno pokretanje. Kada se postigne uspešna konekcija između aplikacija, dozvoljava se korisnička interakcija u Client aplikaciji.
