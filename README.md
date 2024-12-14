@@ -1,54 +1,50 @@
-<div allign="center">
+<div align="center">
   
 # **Load-Balancer**
-###### Projekat rađen za predmet Elementi Razvoja Softvera na Fakultetu Tehničkih Nauka u Novom Sadu
+###### Project created for the course "Elements of Software Development" at the Faculty of Technical Sciences in Novi Sad
   
 </div>
 
-### Saradnici:
+### Collaborators:
 
-| Broj indeksa | Ime | Prezime |
-|------|---------------|------|
-|PR 60/2020|Luka|Đelić|
-|PR 68/2020|Stefan|Milovanović|
-|PR 69/2020|Momčilo|Micić|
-|PR 76/2020|Dušan|Paripović|
+| Index Number | First Name | Last Name |
+|--------------|------------|-----------|
+|PR 60/2020    |Luka        |Đelić      |
+|PR 68/2020    |Stefan      |Milovanović|
+|PR 69/2020    |Momčilo     |Micić      |
+|PR 76/2020    |Dušan       |Paripović  |
 
-## Opšte informacije
+## General Information
 
-Load balancer u računarstvu je servis koji obezbeđuje ravnomerno raspoređivanje zadataka među radnim jedinicama. U našoj implementaciji simuliraćemo upis podataka u bazu, čiji će tok nadgledati Load Balancer.
+A load balancer in computing is a service that ensures even distribution of tasks across worker units. In our implementation, we will simulate data entry into a database, the flow of which will be monitored by the Load Balancer.
 
-### Korišćene tehnologije
+### Used Technologies
 
-- Projekat je pravljen uz pomoć .NET Frameworka, te će Vam biti potreban [Visual Studio 2017 ili noviji](https://visualstudio.microsoft.com/free-developer-offers/) sa instaliranim alatkama za razvoj .NET Framework aplikacija. U projektu se nalaze 3 konzolne aplikacije koje međusobno komuniciraju preko WCF Frameworka za ostvarivanje komunikacije preko lokalne mreže. 
-- Za bazu je korišćen [Oracle RDBMS 11g Express Edition](https://www.oracle.com/database/technologies/xe-prior-release-downloads.html), a korišćen je i SQLDeveloper za nadgledanje podataka. 
-- Baza je implementirana preko ADO_NET API za povezivanje programa napisanih na C# programskom jeziku i velikog broja sistema za upravljanje bazama podataka i drugih vrsta izvora podataka.
+- The project was created using the .NET Framework, so you will need [Visual Studio 2017 or newer](https://visualstudio.microsoft.com/free-developer-offers/) with the .NET Framework development tools installed. The project includes 3 console applications that communicate with each other using the WCF Framework to establish communication over the local network.
+- For the database, we used [Oracle RDBMS 11g Express Edition](https://www.oracle.com/database/technologies/xe-prior-release-downloads.html), and SQLDeveloper was used for monitoring the data.
+- The database was implemented using the ADO_NET API to connect C# applications with various database management systems and other data sources.
 
-## Princip rada
+## Operation Principle
 
-Opisan je princip rada sve 4 komponente: Writer, Load Balancer, Worker i Reader. Workeri i Load Balancer imaju svoje interface-ove kako bi komunicirali sa svojim nadređenim komponentama preko WCF Frameworka.
+The operation principle of all four components is described: Writer, Load Balancer, Worker, and Reader. The Workers and Load Balancer have their interfaces to communicate with their superior components via the WCF Framework.
 
-Pored toga, svaka komponenta ima Logger koji prati i zapisuje događaje u toku rada programa. Load Balancer i Worker imaju svoje zasebne relacione baze podataka u koje zapisuju ili iz kojih čitaju podatke. 
+Additionally, each component has a Logger that monitors and logs events during the program’s execution. Both the Load Balancer and Worker have their own separate relational databases where they write to or read from.
 
-### Component dijagram
-![](https://cdn.discordapp.com/attachments/1051409709044871228/1068985518106349630/component_final.png)
-
-Detaljnije informacije o glavnim komponentama i strukturama podataka kojima operišu se nalaze ispod.
-
+Detailed information about the main components and the data structures they operate with is provided below.
 
 <details>
-  <summary> Komponente Load Balancera </summary>
+  <summary> Load Balancer Components </summary>
   
 ## Writer
   
-  Ova komponenta simulira pristizanje korisničkih zahteva tako što na svake dve sekunde generiče nasumičan Item i šalje ga Load Balanceru. Šematski prikaz     klase Item je dat ispod:
+  This component simulates incoming user requests by generating a random Item every two seconds and sending it to the Load Balancer. A schematic representation of the Item class is shown below:
   
   |Item|
   |----|
   |Code|
   |Value|
   
-  **Code** može imati jednu od sledećih vrednosti:
+  **Code** can have one of the following values:
   + CODE_ANALOG
   + CODE_DIGITAL
   + CODE_CUSTOM
@@ -58,42 +54,38 @@ Detaljnije informacije o glavnim komponentama i strukturama podataka kojima oper
   + CODE_CONSUMER
   + CODE_SOURCE
   
-  **Value** je tipa int i može biti u opsegu 1-10000
+  **Value** is of type int and can range from 1 to 10000.
   
 ## Load Balancer
   
-LB raspoređuje primljeni Item u jedan od svojih Descriptiona. Jedan Description odgovara jednom datasetu, te se na osnovu CODE-a u Itemu određuje kom datasetu i Descriptionu pripada. Nakon određenog vremena, Load Balancer pošalje jedan Description sa svim svojim Itemima jednom Workeru, određenom po Round Robin principu.
+The Load Balancer distributes the received Item to one of its Descriptions. One Description corresponds to one dataset, so the Item’s CODE determines which dataset and Description it belongs to. After a certain period, the Load Balancer sends a Description with all its Items to a Worker, selected by the Round Robin principle.
   
 |Description|
 |-----------|
 |ID|
-|Lista Itema čiji CODE odgovara Datasetu|
+|List of Items whose CODE matches the Dataset|
 |Dataset|
   
 ## Worker
 
-Po prijemu Description-a, Worker prepakuje Iteme iz istog u WorkerProperty-je, smešta ih u listu Historical Collection, i čeka da stignu OBA CODE-a koja odgovaraju jednom dataset-u. Po pristizanju oba CODE-a, uzima se prvi par WorkerProperty-ja iz jednog Historical Collection-a i upisuje se u Bazu podataka.
+Upon receiving a Description, the Worker repackages the Items into WorkerProperties, stores them in a Historical Collection list, and waits for both CODEs that match one dataset. After both CODEs arrive, the first pair of WorkerProperties from the Historical Collection is taken, and the data is written into the database.
   
 |CollectionDescription|
 |---------------------|
 |ID|
 |Dataset|
-|HistoricalCollection (prepakovana Lista Itema iz Descriptiona)|
-
+|HistoricalCollection (repackaged list of Items from the Description)|
+  
 ## Reader
   
-Reader je komponenta koja služi za čitanje i ispisivanje podataka iz baze. Pomoću nje dobijamo Item-e po određenom kodu iz određenog intervala od određenog Worker-a. U projektu je implementiran u okviru menija za konzolnu aplikaciju Workera (jer sa njim i komunicira).
+The Reader component is used for reading and displaying data from the database. It allows you to retrieve Items by a specific code within a certain time interval from a particular Worker. This component is implemented in the Worker application menu (since it communicates with it).
 
 </details>
 
-### Activity dijagram
+## Installation / Usage Instructions
 
-![](https://cdn.discordapp.com/attachments/1051409709044871228/1069272738126119002/Activity_Diagram.png)
+In the main folder, there is a file *Common.sln* that should be opened in Visual Studio. The console applications for the Client, Worker, and Load Balancer can be run in any order, as our implementation allows safe execution. Once a successful connection is established between the applications, user interaction in the Client application is enabled.
 
-## Način instaliranja / korišćenja
+In the Client, it is possible to enable/disable the generation and sending of Items to the Load Balancer, as well as to increase or decrease the number of Workers.
 
-U glavonm folderu se nalazi fajl *Common.sln* koji treba otvoriti u Visual Studiu. Konzolne aplikacije Za Client, Worker, Load Balancer mogu da se pokrenu u bilo kom redosledu jer je naša implementacija omogućila bezbedno pokretanje. Kada se postigne uspešna konekcija između aplikacija, dozvoljava se korisnička interakcija u Client aplikaciji.
-
-U Clientu je moguće uključiti / isključiti generisanje i slanje Itema Load Balancer-u, kao i povećavanje i smanjivanje broja Workera.
-
-U slkopu Worker apliacije se nalazi gorepomenuti Reader pomoću čijeg menija možete obaviti ispis podataka od određenog Workera, za određeni CODE u nekom vremenskom intervalu.
+The Worker application includes the aforementioned Reader, through which you can print data from a specific Worker, for a given CODE in a certain time interval.
